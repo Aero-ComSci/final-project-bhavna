@@ -6,7 +6,7 @@ def beach_program():
     for each in packing_list:
         print(each)
 
-    print("\nWhat items have you packed? (enter number from packing_list or 'done' when you're finished)")
+    print("\nWhat items have you packed? Enter number from packing_list or 'done' when you're finished (enter each item one by one)")
     while True:
         user_input = input("Packed item #")
         if user_input == "done":
