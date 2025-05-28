@@ -9,7 +9,7 @@ This program is useful to anyone looking to go to the beach this summer! Especia
 This program is an assistant to help you pack for you next beach trip. It gives you a list of items you might need to pack like sunscreen or water and you check off the item as you pack it. At the end, when you're done packing, based on what you've entered, it gives you a list of the items you've packed and the items you haven't.
 
 ## Lists
-- "packing_list" gives original items to pack and "packed_items" adds the items the user enters into one list.
+- "packing_list" gives original items to pack and "packed_items" is initially an empty list and items are added as the user enters them.
 ```
 packing_list = ["Sunscreen", "Towel", "Sunglasses", "Swimsuit", "Hat","Water bottle", "Flip-flops", "Beach snacks", "Book", "Umbrella"]
 packed_items = []
