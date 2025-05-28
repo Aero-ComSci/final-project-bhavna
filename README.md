@@ -8,11 +8,12 @@ This program is useful to anyone looking to go to the beach this summer! Especia
 ## 𝘞𝘩𝘢𝘵 𝘥𝘰𝘦𝘴 𝘵𝘩𝘦 𝘱𝘳𝘰𝘨𝘳𝘢𝘮 𝘥𝘰?
 This program is an assistant to help you pack for you next beach trip. It gives you a list of items you might need to pack like sunscreen or water and you check off the item as you pack it. At the end, when you're done packing, based on what you've entered, it gives you a list of the items you've packed and the items you haven't.
 
+
 ## SS of code
 ![image](https://github.com/user-attachments/assets/e8fdae50-969e-4b17-bcd0-82bc7f5e11e2)
 
 ## Program running
-![image](https://github.com/user-attachments/assets/59dd496a-5607-42e5-bd0a-f1f44f2ec033)
+![image](https://github.com/user-attachments/assets/34bbbdbd-0571-406b-8a0b-ed265b2e38cf)
 
 
 ## Lists
