@@ -6,4 +6,4 @@
 This program is useful to anyone looking to go to the beach this summer! Especially if you are a forgetful person or need help packing items for your trip. 
 
 ## 𝘞𝘩𝘢𝘵 𝘥𝘰𝘦𝘴 𝘵𝘩𝘦 𝘱𝘳𝘰𝘨𝘳𝘢𝘮 𝘥𝘰?
-This program is an assistant to help you pack for you next beach trip. It gives you a list of items you might need to pack like sunscreen or water and you check off the item as you pack it. At the end, when you're done packing, based on what you've entered, it gives you a list of the items you've packed and the items you haven't 
+This program is an assistant to help you pack for you next beach trip. It gives you a list of items you might need to pack like sunscreen or water and you check off the item as you pack it. At the end, when you're done packing, based on what you've entered, it gives you a list of the items you've packed and the items you haven't.
